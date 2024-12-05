@@ -31,7 +31,7 @@ const surprises = [
     "🌟 Star of Bethlehem"
 ];
 
-const openSound = new Audio('/media/celebrate.mp3');
+const openSound = new Audio('celebrate.mp3');
 openSound.volume = 0.5; // Set volume to 50%
 
 
